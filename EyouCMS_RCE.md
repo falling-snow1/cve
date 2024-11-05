@@ -10,7 +10,7 @@ Avatar upload And template include.
 
 ## Description
 
-EyouCMSv1.5.6 has a remote code execution vulnerability in a system, which needs to be authenticated.
+EyouCMSv1.6.7 has a remote code execution vulnerability in a system, which needs to be authenticated.
 
 ## POC
 
