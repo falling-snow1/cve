@@ -1,4 +1,4 @@
-# EyouCMSv1.5.6 has Remote Code Excute vulnerability
+# EyouCMSv1.6.7 has Remote Code Excute vulnerability
 
 ## vendors
 
